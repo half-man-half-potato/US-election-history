@@ -1,7 +1,7 @@
 This is an interactive Tableau visualization of Wikipedia article "United States presidential election" (table "Electoral college results"):
 https://public.tableau.com/app/profile/yury.ulasenka/viz/PoliticalpartiesintheU_S_presidentialelectionhistory/Politicalparties
 
-![screenshot](./election_history_github.png)
+![screenshot](./screenshot.png)
 
 Data: parties.xlsx
 (https://en.wikipedia.org/wiki/United_States_presidential_election#Electoral_college_results + metadata)
