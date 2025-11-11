@@ -1,4 +1,4 @@
-An interactive Tableau visualization of Wikipedia article "United States presidential election" (table "Electoral college results"):
+This is an interactive Tableau visualization of Wikipedia article "United States presidential election" (table "Electoral college results"):
 https://public.tableau.com/app/profile/yury.ulasenka/viz/PoliticalpartiesintheU_S_presidentialelectionhistory/Politicalparties
 
 ![screenshot](./election_history.png)
