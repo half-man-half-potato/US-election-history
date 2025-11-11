@@ -4,4 +4,4 @@ https://public.tableau.com/app/profile/yury.ulasenka/viz/PoliticalpartiesintheU_
 ![screenshot](./election_history.png)
 
 Data: parties.xlsx
-(https://en.wikipedia.org/wiki/United_States_presidential_election#Electoral_college_results)
+(https://en.wikipedia.org/wiki/United_States_presidential_election#Electoral_college_results + metadata)
